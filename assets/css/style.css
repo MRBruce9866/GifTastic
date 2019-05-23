@@ -1,0 +1,20 @@
+body{
+
+}
+
+button{
+    margin: 2px;
+    color: white;
+    border-radius: 10%;
+    background-color: teal;
+    box-shadow: 2px 2px 4px black;
+}
+
+button:active{
+    box-shadow: none;
+}
+
+.container{
+    margin: 0 auto;
+    width: 100%;
+}
