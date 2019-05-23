@@ -2,7 +2,7 @@ body{
 
 }
 
-button{
+.tagButton{
     margin: 2px;
     color: white;
     border-radius: 10%;
@@ -10,11 +10,20 @@ button{
     box-shadow: 2px 2px 4px black;
 }
 
-button:active{
+.tagButton:active{
     box-shadow: none;
 }
 
-.container{
-    margin: 0 auto;
-    width: 100%;
+/* #buttonContainer{
+    height: 100px;
+} */
+
+#gifContainer{
+
+}
+
+img{
+    margin: 5px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 4px black;
 }
