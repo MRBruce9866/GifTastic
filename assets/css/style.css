@@ -1,5 +1,11 @@
-body{
+h3, h5{
+    padding: 10px;
+    
+}
 
+
+body{
+    background-color: #ccc;
 }
 
 .tagButton{
@@ -14,16 +20,18 @@ body{
     box-shadow: none;
 }
 
-/* #buttonContainer{
-    height: 100px;
-} */
 
-#gifContainer{
+.imageContainer{
 
+    min-width: 300px;
+    background-color: #fff;
+    border: 1px solid black;
+    box-shadow: 2px 2px 4px black;
 }
 
 img{
     margin: 5px;
     border: 1px solid black;
-    box-shadow: 2px 2px 4px black;
+    /* box-shadow: 2px 2px 4px black; */
+    
 }
