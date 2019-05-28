@@ -5,7 +5,7 @@ h3, h5{
 
 
 body{
-    background-color: #ccc;
+    background-color: #aaa;
 }
 
 .tagButton{
@@ -32,6 +32,5 @@ body{
 img{
     margin: 5px;
     border: 1px solid black;
-    /* box-shadow: 2px 2px 4px black; */
     
 }
